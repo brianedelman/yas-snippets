@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#key : bp-large-up
+#name : A medium to large breakpoint used in foundation
+# --
+@include breakpoint(large) {
+
+}

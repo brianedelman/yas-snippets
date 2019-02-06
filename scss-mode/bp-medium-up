@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#key : bp-medium-up
+#name : A zero to medium breakpoint used in foundation
+# --
+@include breakpoint(medium) {
+
+}

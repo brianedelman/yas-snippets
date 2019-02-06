@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#key : bp-small-only
+#name : A breakpoint for small only in foundation
+# --
+@include breakpoint(small only) {
+
+}
